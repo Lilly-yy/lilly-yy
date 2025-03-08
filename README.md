@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 ## Hi there 👋  
+I'm Ann Kristin – a systems advisor with a passion for web development and HR systems! I love working with all types of technologies.  
 
-<!--
-**Lilly-yy/lilly-yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Projects  
+- **Rainy Days** – An e-commerce site for rain jackets built with WooCommerce and JavaScript.  
+- **BMV Science Museum** – A project showcasing a museum with interactive learning experiences.  
+- **Into the Woods** – A blog documenting my journey in training a search and rescue dog.  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning  
+- Front-end development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests  
+- Dog training
+- Gaming
+- HR technology & system optimization  
+
+### 📫 Get in Touch  
+- 🔗 [LinkedIn](www.linkedin.com/in/ann-kristin-haugen-830b10170)  
+- 🐙 [GitHub](https://github.com/lilly-yy)  
+
+🚀 Always excited to learn, build, and collaborate!  
